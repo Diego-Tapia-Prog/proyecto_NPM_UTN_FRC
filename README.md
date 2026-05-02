@@ -7,7 +7,6 @@
 * **Entorno:** Node.js (Runtime de JavaScript).
 * **Calidad de Código:** `ESLint` para el análisis estático.
 * **Funcionalidad:** `Seedrandom` para la generación de valores aleatorios controlAquí tienes el código fuente exacto para tu archivo `README.md`. Solo tienes que copiarlo, pegarlo en tu archivo y guardarlo. He utilizado una sintaxis limpia de Markdown para que GitHub lo renderice de forma profesional.
-```markdown
 
 # 🚀 Proyecto NPM: Desafío 1
 
@@ -35,7 +34,7 @@ npm install
 npm i
 
 ```
-
+---
 **Importante**: Este proceso generará la carpeta `node_modules` y utilizará el archivo `package-lock.json` para asegurar la consistencia en las versiones de las librerías.
 
 ---
