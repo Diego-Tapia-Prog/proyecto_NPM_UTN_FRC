@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Diego-Tapia-Prog/proyecto_NPM_UTN_FRC/issues"
   },
-  "homepage": "https://github.com/Diego-Tapia-Prog/proyecto_NPM_UTN_FRC#readme"
+  "homepage": "https://github.com/Diego-Tapia-Prog/proyecto_NPM_UTN_FRC#readme",
+  "dependencies": {
+    "seedrandom": "^3.0.5"
+  }
 }
